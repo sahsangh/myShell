@@ -1,0 +1,2 @@
+echo HelloInteresting Boy > test.txt
+echo "Hello Interesting Boy" > test2.txt
